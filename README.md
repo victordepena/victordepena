@@ -1,121 +1,130 @@
 <div align="center">
 
-# ¡Hola, soy Victor De Peña! 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Victor+De+Pe%C3%B1a;Red+Team+%7C+Gobernanza+de+Seguridad;Estudiante+de+Seguridad+Inform%C3%A1tica+%40+ITLA" alt="Typing SVG" />
 
-### 🔴 Red Team Enthusiast | 🛡️ Gobernanza & Seguridad de la Información | 🎓 Estudiante en ITLA
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Estudiante+de+Seguridad+Inform%C3%A1tica+%40+ITLA;Enfocado+en+Red+Team+%26+Gobernanza;Aprendiendo%2C+rompiendo+y+asegurando+sistemas" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🧠 Sobre mí
-
-- 🎓 Estudiante de **Seguridad Informática** en el **ITLA** (Instituto Tecnológico de Las Américas)
-- 🎯 Enfocado en **Red Team** (pentesting ofensivo) y **Gobernanza, Riesgo y Cumplimiento (GRC)**
-- 🌱 Aprendiendo constantemente sobre técnicas de explotación, hardening y marcos normativos de seguridad
-- 💬 Pregúntame sobre: Kali Linux, redes, cloud security, o normativas de seguridad
-- 📫 Cómo contactarme: revisa la sección de **Contacto** más abajo
-
----
-
-## 🛠️ Manejo de Tecnologías
-
-<div align="center">
-
-**Pentesting & Ofensiva**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Redes**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-003366?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Sistemas Operativos**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordepena-cybersecurity/)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hAck.u-h6g)
+[![Profile Views](https://komarev.com/ghpvc/?username=victordepena&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/victordepena)
 
 </div>
 
 ---
 
-## 🚀 Proyectos
+## `> whoami`
 
-> *Ejemplos de formato — reemplaza con tus proyectos reales*
+Estudiante de **Seguridad Informática** en el **ITLA (Instituto Tecnológico de Las Américas)**, construyendo una base práctica entre el **lado ofensivo** y el **lado normativo** de la ciberseguridad.
 
-### 🔹 [Nombre del Proyecto 1](#)
-Breve descripción del proyecto: qué hace, qué problema resuelve o qué técnica de seguridad demuestra.
+Mi trabajo se centra en dos frentes que casi nunca se ven juntos:
 
-`Python` `Nmap` `Bash`
+- 🔴 **Red Team** — reconocimiento, explotación, post-explotación y simulación de adversarios en entornos controlados.
+- 🛡️ **Gobernanza (GRC)** — políticas, marcos normativos y gestión de riesgo que le dan sentido y dirección a la parte técnica.
 
-### 🔹 [Nombre del Proyecto 2](#)
-Breve descripción del proyecto. Por ejemplo: script de automatización de reconocimiento, laboratorio de Active Directory, o análisis de vulnerabilidades.
-
-`Kali Linux` `Metasploit`
-
-### 🔹 [Nombre del Proyecto 3](#)
-Breve descripción. Por ejemplo: documento o framework de gobernanza aplicado a un caso de estudio.
-
-`ISO 27001` `NIST`
+Creo que un buen operador ofensivo que no entiende gobernanza solo rompe cosas; y un gobernante que no entiende el lado técnico solo escribe documentos que nadie sigue. Intento moverme cómodo en ambos mundos.
 
 ---
 
-## 📜 Cursos y Certificaciones
+## `> tech_stack`
 
-> *Sección en construcción — agrega tus certificaciones aquí*
+**01 // OFENSIVA & PENTESTING**
 
-- [ ] 🏅 Nombre de la certificación — *Entidad emisora*
-- [ ] 🏅 Nombre del curso — *Plataforma (TryHackMe / HTB / Cisco NetAcad / etc.)*
-- [ ] 🏅 Nombre de la certificación — *Entidad emisora*
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" height="40"/> <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40"/>
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-<!-- 
-Tip: cuando tengas los nombres, puedes usar badges como este:
-![Certificación](https://img.shields.io/badge/eJPT-red?style=for-the-badge&logo=ine&logoColor=white)
--->
+`Reconocimiento` · `Escaneo de vulnerabilidades` · `Explotación` · `Análisis de tráfico`
+
+**02 // REDES**
+
+<img src="https://skillicons.dev/icons?i=cisco&theme=dark" height="40"/>
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+
+`Routing & Switching` · `VLANs` · `ACLs` · `VPN / IPsec` · `Troubleshooting`
+
+**03 // CLOUD**
+
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" height="40"/>
+
+`Cloud Security Fundamentals` · `Modelo de responsabilidad compartida` · `IAM`
+
+**04 // SISTEMAS**
+
+<img src="https://skillicons.dev/icons?i=windows,linux,bash,python&theme=dark" height="40"/>
+
+`Administración de sistemas` · `Scripting` · `Hardening`
 
 ---
 
-## 📊 Estadísticas de GitHub
+## `> featured_projects`
+
+> *Formato de ejemplo — sustituye por tus repositorios reales*
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[Nombre del Proyecto 1](#)** | Laboratorio o script enfocado en reconocimiento/explotación. Explica el problema que resuelve y qué demuestra. | `Kali` `Python` `Nmap` |
+| **[Nombre del Proyecto 2](#)** | Ejercicio o write-up de un CTF, o automatización de una fase del pentest. | `Bash` `Metasploit` |
+| **[Nombre del Proyecto 3](#)** | Aplicación de un marco de gobernanza a un caso de estudio (ej. análisis de riesgo con ISO 27001). | `ISO 27001` `NIST` |
+
+---
+
+## `> governance_frameworks`
+
+Marcos y estándares con los que trabajo o estoy estudiando actualmente:
+
+- `ISO/IEC 27001` — Sistemas de Gestión de Seguridad de la Información
+- `NIST Cybersecurity Framework (CSF)`
+- `MITRE ATT&CK` — mapeo de tácticas y técnicas de adversarios
+- `COBIT` — gobierno de TI
+
+> Sección en construcción — puedes marcar cuáles dominas mejor o en cuáles tienes proyectos aplicados.
+
+---
+
+## `> certifications`
+
+> *Sección en construcción — agrega tus certificaciones y cursos aquí*
+
+- [ ] Nombre de la certificación — *Entidad emisora*
+- [ ] Nombre del curso — *Plataforma (TryHackMe / HTB / Cisco NetAcad / etc.)*
+- [ ] Nombre de la certificación — *Entidad emisora*
+
+---
+
+## `> security_mindset`
+
+```
+RECONOCER  ->  ANALIZAR  ->  EXPLOTAR  ->  DOCUMENTAR
+    |                                          |
+    v                                          v
+ GOBERNANZA  <-  POLÍTICA  <-  RIESGO  <-  REMEDIACIÓN
+```
+
+Entender el ciclo completo — no solo la herramienta del momento — es lo que separa a alguien que ejecuta comandos de alguien que entiende seguridad.
+
+---
+
+## `> github_stats`
 
 <div align="center">
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor.dep&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor.dep&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Victor.dep&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=victordepena&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=victordepena&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## 🌐 Conecta conmigo
+## `> contact`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordepena-cybersecurity/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hAck.u-h6g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordepena-cybersecurity/)
+[![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hAck.u-h6g)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victordepena)
 
-</div>
+### Entender el sistema. Asegurar el sistema. Gobernar el sistema.
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Victor-dep&color=blueviolet&style=for-the-badge)
-
-*"La seguridad no es un producto, es un proceso."*
+`Red Team` · `Gobernanza` · `Redes` · `Cloud Security`
 
 </div>
